@@ -1,0 +1,12 @@
+# Arquivos privados, credenciais e materiais brutos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+raw/
+upload/
+*.mp4
+*.pdf
+.DS_Store
+Thumbs.db
